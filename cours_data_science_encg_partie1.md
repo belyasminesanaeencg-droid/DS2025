@@ -8,7 +8,7 @@
 
 
 
-<img src="logo encg.htm" style="height:464px;margin-right:432px"/>
+<img src="logo.png" style="height:464px;margin-right:432px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
