@@ -12,7 +12,7 @@
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
-<img src="courbe.png" style="height:464px;margin-right:432px"/>
+
 ## MODULE 1 : INTRODUCTION À LA SCIENCE DES DONNÉES ET AU BIG DATA
 
 ### 1.1 Définition et Contexte
@@ -285,7 +285,7 @@ axes[1, 1].set_title('Q-Q Plot (Test de normalité)', fontsize=14, fontweight='b
 plt.tight_layout()
 plt.show()
 ```
-
+<img src="courbe.png" style="height:464px;margin-right:432px"/>
 ### 2.3 Statistiques Inférentielles
 
 Les statistiques inférentielles permettent de faire des inférences sur une population à partir d'un échantillon.
