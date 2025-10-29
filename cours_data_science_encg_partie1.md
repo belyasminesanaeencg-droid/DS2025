@@ -12,7 +12,7 @@
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
-
+<img src="courbe.png" style="height:464px;margin-right:432px"/>
 ## MODULE 1 : INTRODUCTION À LA SCIENCE DES DONNÉES ET AU BIG DATA
 
 ### 1.1 Définition et Contexte
